@@ -6,4 +6,6 @@
 
 * Typecraft didnt go over auto pairing when dealing with '{', '[' etc. So I chose to use 'nvim-autopairs' partially because it was written in lua which is what my config is in. If you use VimScript for your config I've heard 'lexima' is good. 
 
+* Also decided the original error messages were crowding the screen so I made errors and warnings underlined. Added a keybind which shows the diagnostics in a little popup window.
+
 * Will continue to update this as I add more configurations
